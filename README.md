@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif|width=600 "I Like to code.")
+![alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif| width=600 "I Like to code.")
 
 
 ## Hey There!
