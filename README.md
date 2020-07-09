@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif "I Like to code.")
 
 
-##Hey There!
+## Hey There!
 
 So glad you stopped by. I use GitHub to store the things I am working on as well as projects that I am working on with friends and colleges. Some of these are public and some are private. 
 
