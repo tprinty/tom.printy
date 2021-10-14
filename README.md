@@ -3,8 +3,10 @@
 </p>
                                                                                                
                                                                                                
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">👋 Hello!, I'm Tom,</h1>
 <h3 align="center">A highly expereinced software developer</h3>
+
+<p align="left">So glad you stopped by. I use GitHub to store the things I am working on as well as projects that I am working .</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tprinty&label=Profile%20views&color=0e75b6&style=flat" alt="tprinty" /> </p>
 
