@@ -32,6 +32,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Automated WordPress Installs](https://tomprinty.com/ansible-automated-wordpress-installs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
