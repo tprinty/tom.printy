@@ -1,3 +1,8 @@
+<p align="center>
+![alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif "I Like to code.")
+</p>
+                                                                                               
+                                                                                               
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A software highly expereinced software developer</h3>
 
