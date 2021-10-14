@@ -1,5 +1,5 @@
 <p align="center">
-[alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif "I Like to code.")
+<img src="https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif alt="I like to code" />
 </p>
                                                                                                
                                                                                                
