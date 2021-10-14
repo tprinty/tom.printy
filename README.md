@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 [alt text](https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif "I Like to code.")
 </p>
                                                                                                
