@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tprinty" alt="tprinty" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tprinty" target="blank"><img src="https://img.shields.io/twitter/follow/tprinty?logo=twitter&style=for-the-badge" alt="tprinty" /></a> </p>
-
 - 🔭 I’m currently working on [Cheaptranscription.io](https://cheaptranscription.io/)
 
 - 🌱 I’m currently learning **WordPress, Laravel, Python.**
