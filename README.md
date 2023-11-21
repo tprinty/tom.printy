@@ -41,8 +41,6 @@
 <a href="/https://tomprinty.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tomprinty.com/rss" height="30" width="40" /></a>
 </p>
 
-href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://wordpress.org/"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40"></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tprinty&show_icons=true&locale=en&layout=compact" alt="tprinty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tprinty&show_icons=true&locale=en" alt="tprinty" /></p>
