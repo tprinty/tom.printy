@@ -3,7 +3,7 @@
 </p>
                                                                                                
                                                                                                
-<h1 align="center">👋 Hello!, I'm Tom,</h1>
+<h1 align="center">👋 Hello! I'm Tom,</h1>
 <h3 align="center">A highly expereinced software developer</h3>
 
 <p align="left">So glad you stopped by. I use GitHub to store the things I am working on as well as projects that I am working .</p>
